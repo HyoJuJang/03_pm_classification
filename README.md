@@ -16,3 +16,9 @@
 3. PM 주행 위반 알고리즘 개발
 
 
+**분석 프로세스**
+![프로세스1](https://user-images.githubusercontent.com/91238910/165714567-917fc3de-fc77-482f-a0f6-f5ba60d32a4e.jpg)
+
+**PM 여론 분석**
+![1_](https://user-images.githubusercontent.com/91238910/165715145-aa56c481-9ff6-456a-870f-39d4ef28151f.png)
+![1_1](https://user-images.githubusercontent.com/91238910/165715150-a59ef0dd-0451-4c5b-8117-f672ec8c4cc8.png)
