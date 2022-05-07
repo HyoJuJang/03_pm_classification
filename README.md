@@ -20,14 +20,16 @@
 
 
 ### 분석 프로세스
-![프로세스1](https://user-images.githubusercontent.com/91238910/165714567-917fc3de-fc77-482f-a0f6-f5ba60d32a4e.jpg)
+![분석 프로세스](https://user-images.githubusercontent.com/91238910/167256521-d112d941-cc84-4489-87e4-593d6b665743.png)
+
 
 
 ### PM 여론 분석
-![1_](https://user-images.githubusercontent.com/91238910/165715145-aa56c481-9ff6-456a-870f-39d4ef28151f.png)
-![1_1](https://user-images.githubusercontent.com/91238910/165715150-a59ef0dd-0451-4c5b-8117-f672ec8c4cc8.png)
-![그림1_3](https://user-images.githubusercontent.com/91238910/167256074-74b60c99-eaa7-4e8d-aad3-39ee07f44b13.png)
-![1_4](https://user-images.githubusercontent.com/91238910/167256197-92e9af6d-eaf7-45b7-a89f-b6efc89216e0.png)
+![1_](https://user-images.githubusercontent.com/91238910/167256542-3d59de00-b6a0-4336-abae-54dd30768fef.png)
+![1_1](https://user-images.githubusercontent.com/91238910/167256543-55fa46f2-7993-4bed-a191-af9e50d82196.png)
+![그림1_3](https://user-images.githubusercontent.com/91238910/167256544-262c9c77-3add-4406-90a1-921159ea75da.png)
+![1_4](https://user-images.githubusercontent.com/91238910/167256545-7ad7c175-6ac3-4f0f-8fa8-b7f31999f59d.png)
+
 
 ##### LDA 결과
 ![결과1_1](https://user-images.githubusercontent.com/91238910/167256359-4666c13c-5e3c-4d52-ae11-4321f4af0192.png)
