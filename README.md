@@ -22,3 +22,4 @@
 **PM 여론 분석**
 ![1_](https://user-images.githubusercontent.com/91238910/165715145-aa56c481-9ff6-456a-870f-39d4ef28151f.png)
 ![1_1](https://user-images.githubusercontent.com/91238910/165715150-a59ef0dd-0451-4c5b-8117-f672ec8c4cc8.png)
+![그림1_3](https://user-images.githubusercontent.com/91238910/167256074-74b60c99-eaa7-4e8d-aad3-39ee07f44b13.png)
