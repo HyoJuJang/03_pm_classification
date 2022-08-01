@@ -18,7 +18,7 @@
 
 
 
-### 분석 프로세스
+**분석 프로세스**
 ![0](https://user-images.githubusercontent.com/91238910/182102420-4b8d55cf-ecb8-4ec2-a9df-24070459ca1c.png)
 ![1](https://user-images.githubusercontent.com/91238910/182102417-27fc26b2-3849-49ee-9191-06d56850c9e9.png)
 
