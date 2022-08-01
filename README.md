@@ -12,32 +12,23 @@
 **분 석 주 제 :** 개인형이동장치(PM)에 대한 다각적인 분석 
 
 1. PM에 대한 여론 분석
-2. PM, 이륜차, 자전거를 분류하는 로지스틱 회귀 모형 구축 및 관련 요인 탐색
+**2. PM, 이륜차, 자전거를 분류하는 로지스틱 회귀 모형 구축 및 관련 요인 탐색**
 3. PM 주행 위반 알고리즘 개발
 
 
 
 
-
 ### 분석 프로세스
-![분석 프로세스](https://user-images.githubusercontent.com/91238910/167256521-d112d941-cc84-4489-87e4-593d6b665743.png)
+![0](https://user-images.githubusercontent.com/91238910/182102420-4b8d55cf-ecb8-4ec2-a9df-24070459ca1c.png)
+![1](https://user-images.githubusercontent.com/91238910/182102417-27fc26b2-3849-49ee-9191-06d56850c9e9.png)
+
+![2](https://user-images.githubusercontent.com/91238910/182102422-84adeebb-6f23-4f31-9066-3dee98e4879d.png)
+![3](https://user-images.githubusercontent.com/91238910/182102427-523f1ee0-6fa4-405b-9633-782a1d02d6e5.png)
+![4](https://user-images.githubusercontent.com/91238910/182102429-0467c4fa-9d8a-44e0-8b6d-362df785af28.png)
+![5](https://user-images.githubusercontent.com/91238910/182102433-55a7abeb-2e79-4949-9ede-c24e71e35fe3.png)
+![6](https://user-images.githubusercontent.com/91238910/182102435-d9ce690c-acbf-4d58-9a26-491aef9e7708.png)
+![7](https://user-images.githubusercontent.com/91238910/182102437-829a77ec-8e64-42df-b997-9aaf19c10322.png)
+![8](https://user-images.githubusercontent.com/91238910/182102443-2a1b9e04-7842-48ba-98c0-4531a2e8237e.png)
 
 
 
-### PM 여론 분석
-![1_](https://user-images.githubusercontent.com/91238910/167256542-3d59de00-b6a0-4336-abae-54dd30768fef.png)
-![1_1](https://user-images.githubusercontent.com/91238910/167256543-55fa46f2-7993-4bed-a191-af9e50d82196.png)
-![그림1_3](https://user-images.githubusercontent.com/91238910/167256544-262c9c77-3add-4406-90a1-921159ea75da.png)
-![1_4](https://user-images.githubusercontent.com/91238910/167256545-7ad7c175-6ac3-4f0f-8fa8-b7f31999f59d.png)
-
-
-##### LDA 결과
-![결과1_1](https://user-images.githubusercontent.com/91238910/167256359-4666c13c-5e3c-4d52-ae11-4321f4af0192.png)
-
-##### 감정 분석 결과
-![결과1_2](https://user-images.githubusercontent.com/91238910/167256363-827210cb-6792-4527-a962-96e3eb5ff3dd.png)
-![결과1_3](https://user-images.githubusercontent.com/91238910/167256367-0e406488-bacf-4d31-915f-5b2e639da61d.png)
-![결과1_4](https://user-images.githubusercontent.com/91238910/167256368-6a887ebd-fc4c-4275-ad8e-1615ebc16c71.png)
-
-
-### PM 분류 모형 구축(Logistic Regression)
